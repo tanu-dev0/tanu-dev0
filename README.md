@@ -12,12 +12,12 @@ I am an undergraduate student focused on **Machine Learning** and **Natural Lang
 
 ### Academic Standing
 - **Current CGPA:** 8.97 / 10.0 (Sant Longowal Institute of Engineering and Technology)
-- **Core Competencies:** Data Structures & Algorithms, Design and Analysis of Algorithms (DAA), Operating Systems.
+- **Core Competencies:** Data Structures, Design and Analysis of Algorithms (DAA), Operating Systems, Computer Networks
 
 ### Tech Stack
 - **Languages:** Python, C++, SQL, HTML/CSS
 - **Libraries:** Hugging Face Transformers, Scikit-learn, SHAP, Streamlit, Matplotlib, Pandas, NumPy
-- **Tools:** Git/GitHub, VS Code, Linux (Ubuntu)
+- **Tools:** Git/GitHub, VS Code
 
 ---
 
