@@ -30,5 +30,4 @@ I am an undergraduate student focused on **Machine Learning** and **Natural Lang
 - **Email:** tanusharma4feb@gmail.com
 - **Codechef:** https://www.codechef.com/users/tanu_4
   
-![Tanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanu-dev0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-dev0&layout=compact&theme=tokyonight)
+
