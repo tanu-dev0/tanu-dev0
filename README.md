@@ -3,8 +3,6 @@
 ### 3rd Year B.E. Computer Science & Engineering @ SLIET
 I am an undergraduate student focused on **Machine Learning** and **Natural Language Processing**. My primary interest lies in **Explainable AI (XAI)**—moving beyond "black-box" models to understand the logic behind algorithmic predictions.
 
----
-
 ### Technical Focus
 - **Natural Language Processing:** Emotion detection and sentiment analysis using Transformer architectures.
 - **Model Interpretability:** Utilizing **SHAP** to visualize feature importance in classification tasks.
