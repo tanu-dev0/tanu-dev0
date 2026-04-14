@@ -12,11 +12,11 @@ I am an undergraduate student focused on **Machine Learning** and **Natural Lang
 
 ### Academic Standing
 - **Current CGPA:** 8.97 / 10.0 (Sant Longowal Institute of Engineering and Technology)
-- **Core Competencies:** Data Structures, Design and Analysis of Algorithms (DAA), Operating Systems, Computer Networks
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanu-dev0&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-dev0&layout=compact&theme=tokyonight" alt="Langs" />
-</div>
+
+  ### GitHub Statistics
+![Tanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanu-dev0&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-dev0&layout=compact&theme=tokyonight)
 
 ### Tech Stack
 - **Languages:** Python, C++, SQL, HTML/CSS
