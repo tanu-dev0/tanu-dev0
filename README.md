@@ -13,10 +13,6 @@ I am an undergraduate student focused on **Machine Learning** and **Natural Lang
 ### Academic Standing
 - **Current CGPA:** 8.97 / 10.0 (Sant Longowal Institute of Engineering and Technology)
 
-  ### GitHub Statistics
-![Tanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanu-dev0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-dev0&layout=compact&theme=tokyonight)
 
 ### Tech Stack
 - **Languages:** Python, C++, SQL, HTML/CSS
